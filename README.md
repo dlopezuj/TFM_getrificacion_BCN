@@ -35,7 +35,8 @@ _Notebooks con el proceso de unión de los csv de los factores seleccionados en 
 _Notebooks con la aplicación de los algoritmos no supervisados de Machine Learning_
 * Clustering_con_el_método_K_means.ipynb
 * Clustering_jerárquico.ipynb
-
+* Clustering_con_el_método_K_means_todos_los_parámetros.ipynb
+* Clustering_jerárquico_todos_los_parametros.ipynb
 
 
 ## Construido con 🛠️
