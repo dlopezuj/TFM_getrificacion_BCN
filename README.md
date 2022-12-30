@@ -12,7 +12,7 @@ Un estudio de los indicadores económicos y sociales a través de la visualizaci
 
 
 ## Contenido del repositorio 📦
-_Notebooks con los procesos de extracción y transformación de los factores seleccionados_
+_Notebooks con los procesos de extracción, transformación y carga de los factores seleccionados_
 * PEC3_alquiler.ipynb
 * PEC3_coste_vivienda.ipynb
 * PEC3_criminalidad_TFM.ipynb
@@ -29,6 +29,15 @@ _Notebooks con los procesos de extracción y transformación de los factores sel
 * PEC_parcs.ipynb
 * PEC_restaurantes.ipynb
 
+_Notebooks con el proceso de unión de los csv de los factores seleccionados en un único dataset_
+* Union_DataFrames.ipynb
+
+_Notebooks con la aplicación de los algoritmos no supervisados de Machine Learning_
+* Clustering_con_el_método_K_means.ipynb
+* Clustering_jerárquico.ipynb
+
+
+
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
@@ -37,7 +46,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Python](https://www.python.org) - lenguaje de programación
 * [Git](https://git-scm.com/) - Gestor de versiones
 * [Tableau](https://www.tableau.com) - Herramienta de Visualización de Datos
-* Overleaf(https://www.overleaf.com/) - Editor de textos
+* [Overleaf](https://www.overleaf.com/) - Editor de textos
 
 
 ## Autor ✒️
