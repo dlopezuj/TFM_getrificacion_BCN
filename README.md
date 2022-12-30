@@ -1,6 +1,6 @@
 # TFM Gentrificación Barcelona
 
-_Trabajo de final de Máster de la Universitat Oberta de Catalunya_
+_Trabajo de final de Máster para el Máster de ciencia de datos de la Universitat Oberta de Catalunya_
 
 
 ### Resumen 📋
