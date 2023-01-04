@@ -41,7 +41,6 @@ _Notebooks con la aplicación de los algoritmos no supervisados de Machine Learn
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Google Colab](https://colab.research.google.com) - Entorno de desarrollo
 * [Python](https://www.python.org) - lenguaje de programación
